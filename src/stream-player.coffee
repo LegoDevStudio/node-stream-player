@@ -1,5 +1,5 @@
 Speaker = require('speaker')
-lame = require('lame')
+lame = require('@suldashi/lame')
 request = require('request')
 events = require('events')
 fs = require('fs')
