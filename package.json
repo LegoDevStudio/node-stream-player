@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/michael-gillett/node-stream-player",
   "dependencies": {
-    "lame": "^1.2.2",
+    "@suldashi/lame": "^1.2.5",
     "request": "^2.60.0",
     "speaker": "^0.2.5"
   }
